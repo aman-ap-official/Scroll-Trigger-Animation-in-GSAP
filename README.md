@@ -1,3 +1,12 @@
+# What is GSAP??
+
+GSAP (GreenSock Animation Platform) is a powerful JavaScript library for creating high-performance animations. It allows developers to animate HTML, CSS, SVG, Canvas, and WebGL elements with smooth and efficient transitions. GSAP is widely used for creating interactive and engaging web animations due to its flexibility, performance optimizations, and extensive feature set.
+
+GSAP (GreenSock Animation Platform) ek powerful JavaScript library hai jo animations aur interactive effects banane ke liye use hoti hai. Yeh specially CSS, SVG, Canvas, aur WebGL elements ke liye smooth aur optimized animations provide karti hai.
+
+Iska use scroll animations, UI interactions, sliders, parallax effects, timeline-based animations aur bahut kuch banane ke liye hota hai. Yeh React, Vue, Angular jaise frameworks ke saath bhi easily integrate ho sakti hai.
+
+
 # GSAP Websit Link..
 
 https://gsap.com
